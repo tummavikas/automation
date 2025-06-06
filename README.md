@@ -13,7 +13,10 @@
   <li>Paste the batch script content into the editor.</li>
   <li>Save the file with a <code>.bat</code> extension, such as <code>setup_env.bat</code>.</li>
 </ol>
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/NrCvil-JnR8))
+### 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/NrCvil-JnR8/hqdefault.jpg)](https://www.youtube.com/watch?v=NrCvil-JnR8)
+
 
 
 <h3>🔐 Step 2: Run as Administrator</h3>
